@@ -3,7 +3,6 @@
 
 This guide installs and configures the AWS CLI, Terraform, kubectl, eksctl, and sets up EKS with EBS CSI, NGINX Ingress, and cert-manager.
 
-
 ## 📦 Install AWS CLI
 
 ```bash
